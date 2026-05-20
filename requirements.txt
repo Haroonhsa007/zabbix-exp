@@ -1,4 +1,4 @@
 # Official Zabbix Python library (supported from 7.0+).
 zabbix-utils>=2.0.0
 # Loads scripts/ configuration from the .env file.
-python-dotenv>=1.0.0
+python-dotenv>=1.2.2
