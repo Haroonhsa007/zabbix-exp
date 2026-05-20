@@ -1,0 +1,2 @@
+# Export Zabbix templates here as YAML (Data collection -> Templates -> Export),
+# version-control them, and re-import with the configuration.import API method.
