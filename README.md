@@ -1,4 +1,4 @@
-# zabbix test
+# Zabbix test
 
 A local **Zabbix 7.0 LTS** learning sandbox: a full Docker Compose stack plus a
 Python automation layer that configures it through the JSON-RPC API. Disposable
